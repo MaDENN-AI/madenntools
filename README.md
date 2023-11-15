@@ -15,7 +15,7 @@ pip install madenntools
 
 ### Documentation
 
-- [Usage](https://github.com/MaDENN-AI/madenntools/blob/main/doc/usage.md)
 - [Library documentation](https://github.com/MaDENN-AI/madenntools/blob/main/doc/library_documentation.md)
+- [Usage](https://github.com/MaDENN-AI/madenntools/blob/main/doc/usage.md)
 - [Package update](https://github.com/MaDENN-AI/madenntools/blob/main/doc/update.md)
 - [Contribution](https://github.com/MaDENN-AI/madenntools/blob/main/doc/contrib.md)
